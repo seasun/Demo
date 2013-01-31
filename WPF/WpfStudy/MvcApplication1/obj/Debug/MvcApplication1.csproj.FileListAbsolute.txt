@@ -1,0 +1,5 @@
+G:\Seasun\JobFiles\WPF\WpfStudy\MvcApplication1\bin\MvcApplication1.dll
+G:\Seasun\JobFiles\WPF\WpfStudy\MvcApplication1\bin\MvcApplication1.pdb
+G:\Seasun\JobFiles\WPF\WpfStudy\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+G:\Seasun\JobFiles\WPF\WpfStudy\MvcApplication1\obj\Debug\MvcApplication1.dll
+G:\Seasun\JobFiles\WPF\WpfStudy\MvcApplication1\obj\Debug\MvcApplication1.pdb

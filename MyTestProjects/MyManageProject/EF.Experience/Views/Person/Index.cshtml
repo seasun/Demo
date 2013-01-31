@@ -1,0 +1,35 @@
+﻿@model List<EF.Experience.Models.Person>
+@{
+    ViewBag.Title = "學生列表";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>
+    Index</h2>
+<table border="1">
+    <thead>
+        <tr>
+            <td>
+                學號
+            </td>
+            <td>
+                姓名
+            </td>
+            <td>
+                年齡
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Number
+                </td>
+                <td>@item.Name
+                </td>
+                <td>@item.Age
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

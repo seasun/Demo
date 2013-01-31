@@ -1,0 +1,7 @@
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\DrawExperience\bin\Debug\DrawExperience.exe
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\DrawExperience\bin\Debug\DrawExperience.pdb
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\DrawExperience\obj\x86\Debug\DrawExperience.Properties.Resources.resources
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\DrawExperience\obj\x86\Debug\DrawExperience.exe
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\DrawExperience\obj\x86\Debug\DrawExperience.pdb
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\DrawExperience\obj\x86\Debug\DrawExperience.csprojResolveAssemblyReference.cache
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\DrawExperience\obj\x86\Debug\DrawExperience.csproj.GenerateResource.Cache

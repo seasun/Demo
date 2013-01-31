@@ -1,0 +1,4 @@
+G:\Seasun\JobFiles\WPF\WpfStudy\Helper\bin\Debug\Helper.dll
+G:\Seasun\JobFiles\WPF\WpfStudy\Helper\bin\Debug\Helper.pdb
+G:\Seasun\JobFiles\WPF\WpfStudy\Helper\obj\Debug\Helper.dll
+G:\Seasun\JobFiles\WPF\WpfStudy\Helper\obj\Debug\Helper.pdb

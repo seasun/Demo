@@ -1,0 +1,4 @@
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\SampleFactoryPattern\bin\Debug\SampleFactoryPattern.exe
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\SampleFactoryPattern\bin\Debug\SampleFactoryPattern.pdb
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\SampleFactoryPattern\obj\x86\Debug\SampleFactoryPattern.exe
+G:\Seasun\GitStorage\MyTestProjects\MyManageProject\SampleFactoryPattern\obj\x86\Debug\SampleFactoryPattern.pdb
