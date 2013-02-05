@@ -1,1 +1,13 @@
 F:\git\WPFVS2012\WpfStudy\WpfStudy\bin\Debug\WpfStudy.exe.config
+F:\git\WPFVS2012\WpfStudy\WpfStudy\bin\Debug\WpfStudy.exe
+F:\git\WPFVS2012\WpfStudy\WpfStudy\bin\Debug\WpfStudy.pdb
+F:\git\WPFVS2012\WpfStudy\WpfStudy\obj\Debug\WpfStudy.csprojResolveAssemblyReference.cache
+F:\git\WPFVS2012\WpfStudy\WpfStudy\obj\Debug\MainWindow.baml
+F:\git\WPFVS2012\WpfStudy\WpfStudy\obj\Debug\MainWindow.g.cs
+F:\git\WPFVS2012\WpfStudy\WpfStudy\obj\Debug\App.g.cs
+F:\git\WPFVS2012\WpfStudy\WpfStudy\obj\Debug\WpfStudy_MarkupCompile.cache
+F:\git\WPFVS2012\WpfStudy\WpfStudy\obj\Debug\WpfStudy.g.resources
+F:\git\WPFVS2012\WpfStudy\WpfStudy\obj\Debug\WpfStudy.Properties.Resources.resources
+F:\git\WPFVS2012\WpfStudy\WpfStudy\obj\Debug\WpfStudy.csproj.GenerateResource.Cache
+F:\git\WPFVS2012\WpfStudy\WpfStudy\obj\Debug\WpfStudy.exe
+F:\git\WPFVS2012\WpfStudy\WpfStudy\obj\Debug\WpfStudy.pdb

@@ -3,6 +3,8 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Button Name="picButton">
+            <Rectangle Fill="Blue" Height="24" Width="50"></Rectangle>
+        </Button>
     </Grid>
 </Window>
